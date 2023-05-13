@@ -1,0 +1,35 @@
+< !doctype html >SummerPort 
+<html>
+  <head>
+  </head>
+</html> 
+<title></title>
+<html></html>
+<head></head>
+html
+<title>Pastaamore<!DOCTYPE html>
+<html>
+<head> 
+<title>PastaAmore</title> <pasta amore ></pasta>
+</head>Pasta Amore Italian Cuisine>
+  <body>
+   <header>
+    <nav>
+   <ul>
+   </ul>
+     </nav>
+   </header>
+<main>
+   <h1>Pasta Amore!</h1>
+    <p>Italian Cuisine.</p>Pasta Amore combines the cooking Taditions and ingredients of Italy with creativity, providing a modern twist on timeless classics
+</main>Our vision for the future is to grow and learn along with our customers. In doing so, we aim to provide anatmosphere that enables this growth and fuels the passion that lives within the essence of the brand
+<meta name="description" content= Pasta Amore Tardiotnal Italan cuisines.>
+<footer></footer>
+<meta>To provide a warm atmosphere for your family where we can share the traditional cuisines of Italy.
+
+<p>Our food will always be fun, fresh and filled with love. </p>
+<meta author="content=Italian cuisine" Brand Style Guide> 
+<p>Copyright ©2021 Pasta Amore Italian Cusine</p>
+</footer>
+</body>
+</html>
